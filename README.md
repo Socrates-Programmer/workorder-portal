@@ -79,7 +79,13 @@ workorder-portal/
 ```
 
 
+## 📜 Licencia
 
+Este proyecto está licenciado bajo la **MIT License**.  
+
+Puedes usarlo, modificarlo y distribuirlo libremente, incluso con fines comerciales, siempre que mantengas el aviso de copyright y la licencia correspondiente.  
+
+📄 Para más detalles revisa el archivo [LICENSE](./LICENSE).
 
 
 
