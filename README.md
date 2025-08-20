@@ -33,7 +33,19 @@ Permite a pequeñas y medianas empresas gestionar **órdenes de trabajo, tickets
 
 ## 🚀 Instalación y Uso
 
-### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/workorder-portal.git
-cd workorder-portal
+# 2. Instalar dependencias
+pnpm install
+
+# 3. Configurar variables de entorno
+# Copia el archivo .env.example a .env y define:
+# DATABASE_URL="postgresql://usuario:password@localhost:5432/workorder"
+# NEXTAUTH_SECRET="clave-super-secreta"
+
+# 4. Ejecutar migraciones y seed
+pnpm prisma migrate dev
+pnpm prisma db seed
+
+# 5. Levantar el servidor
+pnpm dev
+
