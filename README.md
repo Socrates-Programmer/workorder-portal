@@ -15,7 +15,7 @@ Permite a pequeñas y medianas empresas gestionar **órdenes de trabajo, tickets
 - 📊 **Dashboard interactivo** con métricas y estado general.  
 - 📂 **Exportación de reportes** en CSV.  
 - 🔑 **Autenticación segura** con Auth.js (NextAuth).  
-- ⚡ **API REST** con buenas prácticas y documentación clara.  
+- ⚡ **API REST** documentación clara.  
 
 ---
 
