@@ -65,6 +65,7 @@ pnpm e2e
 
 ## Estructura del proyecto
 
+```
 workorder-portal/
 ├─ app/                # Páginas Next.js (App Router)
 │  ├─ dashboard/       # Dashboard principal
@@ -75,7 +76,7 @@ workorder-portal/
 ├─ tests/              # Unit y e2e tests
 ├─ .github/workflows/  # CI/CD con GitHub Actions
 └─ README.md
-
+```
 
 
 
