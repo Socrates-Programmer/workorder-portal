@@ -22,7 +22,7 @@ Permite a pequeñas y medianas empresas gestionar **órdenes de trabajo, tickets
 ## 🛠️ Stack Tecnológico
 
 - **Frontend:** Next.js (App Router) · React · TailwindCSS · shadcn/ui  
-- **Backend:** Node.js · Prisma ORM · PostgreSQL  
+- **Backend:** Node.js · Prisma ORM · MongoDB  
 - **Auth:** Auth.js (NextAuth)  
 - **Estado:** React Query · Zod (validación)  
 - **Testing:** Vitest · Playwright  
